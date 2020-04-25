@@ -10,7 +10,7 @@ Replace ik_pick_and_place_demo.py at this location:
 
 ~/(workspace)/src/baxter_simulator/baxter_sim_examples/scripts. 
 
-Also, place our_scene.scene at the same location.
+Also, place our_scene.scene at the same location:
 
 ~/(workspace)/src/moveit_robots/baxter/baxter_moveit_config/baxter_scenes. 
 
